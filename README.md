@@ -1,5 +1,5 @@
 # githubLearning-demo
-<h1>GITHUB learning from apnacollege<h1/>
+<h1>GITHUB learning from apnacollege</h1>
 In this i have learnt how to create github account, how to create repositories(while creating repo we will add readme file which is a good approach).readmefile have md which stand for markdown. 
 Initial commit against readme file means that we have first change in our file (it means we create a repo and first thing we did is to add a readme file in our repo).
 Changes in this are commit. 
